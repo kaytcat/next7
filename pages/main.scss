@@ -1,0 +1,59 @@
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/mixins';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/variables';
+
+// $kununu-font-path: '~src/client/fonts';
+
+// @import '~@kununu/kununu-theme-v2/scss/base/variables';
+// @import '~@kununu/kununu-theme-v2/scss/base/mixins';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/code';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/buttons';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/forms';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/navs';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/navbar';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/normalize';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/scaffolding';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/type';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/grid';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/tooltip';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/utilities';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap/responsive-utilities';
+
+// @import '~@kununu/kununu-theme-v2/scss/base/buttons';
+// @import '~@kununu/kununu-theme-v2/scss/base/grid';
+// @import '~@kununu/kununu-theme-v2/scss/base/core';
+// @import '~@kununu/kununu-theme-v2/scss/effects/core';
+// @import '~@kununu/kununu-theme-v2/scss/base/panels';
+// @import '~@kununu/kununu-theme-v2/scss/base/type';
+// @import '~@kununu/kununu-theme-v2/scss/base/colors';
+
+// html,
+// body {
+//   background: red;
+//   height: 100%;
+//   font-size: 14px;
+// }
+
+// body #__next,
+// body #__next > div {
+//   height: 100%;
+// }
+
+// main {
+//   min-height: 100%;
+//   overflow: auto;
+// }
+
+// .spin {
+//   animation: spin 2s infinite linear;
+// }
+
+// @keyframes spin {
+//   0% {
+//     transform: rotate(0deg);
+//   }
+
+//   100% {
+//     transform: rotate(359deg);
+//   }
+// }
+

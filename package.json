@@ -1,0 +1,39 @@
+{
+  "name": "next7",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "meow": "node server.js",
+    "dev": "next",
+    "build": "next build",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "none",
+  "license": "ISC",
+  "dependencies": {
+    "@kununu/kununu-theme-v2": "^2.0.2",
+    "bootstrap-sass": "^3.3.7",
+    "css-loader": "^1.0.1",
+    "node-sass": "^4.9.4",
+    "nukleus": "^13.0.5",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "sass-loader": "^7.1.0"
+  },
+  "devDependencies": {
+    "mini-css-extract-plugin": "^0.4.4",
+    "next": "^7.0.2"
+  }
+}
